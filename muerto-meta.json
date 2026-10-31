@@ -1,10 +1,1 @@
-{
-  "name": "Muerto",
-  "symbol": "MUERTO",
-  "description": "Dia de Muertos on Solana. The calendar does the marketing: once a year the dead get a day, and the living get a coin. No roadmap, no utility, just the one weekend when everyone remembers.",
-  "image": "https://solbotrescue.github.io/meme-meta/muerto.png",
-  "twitter": "https://x.com/pumpdotfun",
-  "website": "https://pump.fun",
-  "showName": true,
-  "createdOn": "https://pump.fun"
-}
+{ "name": "Muerto", "symbol": "MUERTO", "description": "Dia de Muertos on Solana. The calendar does the marketing: once a year the dead get a day, and the living get a coin. No roadmap, no utility, just the one weekend when everyone remembers.", "image": "https://solbotrescue.github.io/meme-meta/muerto.png", "twitter": "https://x.com/pumpdotfun", "website": "https://pump.fun" }
